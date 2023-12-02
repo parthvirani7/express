@@ -1,0 +1,1 @@
+module.exports.bikeController = require("./bike.controller");

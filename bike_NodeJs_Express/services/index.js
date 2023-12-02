@@ -1,0 +1,1 @@
+module.exports.bikeService = require("./bike.service");

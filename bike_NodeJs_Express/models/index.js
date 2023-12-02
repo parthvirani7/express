@@ -1,0 +1,1 @@
+module.exports.bikeSchema = require("./bike.model");
